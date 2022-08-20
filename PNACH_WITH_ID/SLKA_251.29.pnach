@@ -1,0 +1,6 @@
+gametitle=James Bond 007 - Everything or Nothing (NTSC-K)(SLKA-25129) 
+//ELF CRC=4A5539CF
+comment=Widescreen hack by nemesis2000 (NTSC-K by Arapapa)
+
+//Widescreen Hack 16:9
+patch=1,EE,0041ab2c,word,3faaaaab //3f800000

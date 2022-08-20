@@ -1,0 +1,4 @@
+gametitle=MTV Celebrity Deathmatch SLUS_206.04 
+//ELF CRC=66DA0D78
+comment=Widescreen Hack
+patch=1,EE,00211768,word,3c023f22

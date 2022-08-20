@@ -1,0 +1,9 @@
+gametitle=Starsky & Hutch (E)(SLES-51617) 
+//ELF CRC=518398FC
+comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,00123e4c,word,3c033f2a //3c033f00
+
+patch=1,EE,204CCEDC,extended,3F19999A //3f4ccccd

@@ -1,0 +1,7 @@
+gametitle=Power Volleyball (E)(SLES-54717) 
+//ELF CRC=E764019B
+comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,002513b8,word,43c00000 //44000000

@@ -1,0 +1,4 @@
+gametitle=Sly 3 - Honour Among Thieves SCES_534.09 
+//ELF CRC=8164C614
+comment=Widescreen Hack
+patch=1,EE,00166804,word,3c014455

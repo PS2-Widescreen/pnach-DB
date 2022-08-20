@@ -1,0 +1,5 @@
+gametitle=Bomberman Land 3 (J)(SLPM_62643) 
+//ELF CRC=A5BD7ADC
+comment=Widescreen Hack by gamemasterplc
+
+patch=1,EE,201327D8,word,3C054455 //3D Width

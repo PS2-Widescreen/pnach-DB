@@ -1,0 +1,4 @@
+gametitle=Oni (SLES-50134) 
+//ELF CRC=22E85E68
+comment=Widescreen Hack by Catarax
+patch=1,EE,001346f8,word,3c013f40 //3c013f80

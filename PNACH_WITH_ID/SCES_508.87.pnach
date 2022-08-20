@@ -1,0 +1,6 @@
+gametitle=Alpine Racer 3 [PAL-M5] (SCES_508.87) 
+//ELF CRC=7367D841
+comment=Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+patch=1,EE,206A1E5C,extended,3F199999 //3F800000 (Increases hor. axis)

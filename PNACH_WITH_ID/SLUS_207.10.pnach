@@ -1,0 +1,6 @@
+gametitle= Onimusha - Blade Warriors (NTSC-U) (SLUS-20710) 
+//ELF CRC=CE7451A4
+comment= Widescreen Hack by VIRGIN KLM
+
+//Widescreen
+patch=1,EE,204F7040,word,3F400000 // 3F800000

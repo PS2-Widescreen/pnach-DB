@@ -1,0 +1,4 @@
+gametitle=Hidden Invasion SLUS_203.01 
+//ELF CRC=7759A3F0
+comment=Widescreen Hack
+patch=1,EE,00124224,word,3c013f40

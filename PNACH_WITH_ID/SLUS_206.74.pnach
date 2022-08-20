@@ -1,0 +1,7 @@
+gametitle=Cyber Troopers Virtual-On Marz (U)(SLUS-20674) 
+//ELF CRC=2D52131D
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,00153474,word,3c023f40 //3c023f80

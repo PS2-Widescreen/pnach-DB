@@ -1,0 +1,4 @@
+gametitle=Spartan: Total Warrior (SLES-53393) 
+//ELF CRC=72E1E60E
+comment=Widescreen patch by paul_met
+patch=1,EE,2057C814,extended,3F100000 // 3F400000

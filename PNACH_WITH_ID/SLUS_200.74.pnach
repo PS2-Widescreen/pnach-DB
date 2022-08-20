@@ -1,0 +1,4 @@
+gametitle=Summoner SLUS_200.74 
+//ELF CRC=13E2774E
+comment=Widescreen Hack
+patch=1,EE,20330558,extended,3F400000 // 3F800000

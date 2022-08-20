@@ -1,0 +1,4 @@
+gametitle=Vexx SLUS_203.83 
+//ELF CRC=B6580DA4
+comment=Widescreen Hack
+patch=1,EE,0035d74c,word,3c033f40

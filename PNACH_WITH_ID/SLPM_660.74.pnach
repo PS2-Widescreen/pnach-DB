@@ -1,0 +1,5 @@
+gametitle=Sonic Gems collection (ntsc-j)(SLPM-66074) 
+//ELF CRC=E0068D0A
+comment=Widescreen hack by Esppiral, file/gametitle renamed by Aced14
+patch=1,EE,00290960,word,3FAAAAAB
+patch=1,EE,216CC190,word,3F400000

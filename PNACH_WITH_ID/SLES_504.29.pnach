@@ -1,0 +1,8 @@
+gametitle=Alex Ferguson's Player Manager 2001 (E)(SLES-50429) 
+//ELF CRC=E0CD9A1D
+comment=Widescreen hack by Arapapa
+
+//Widescreen 16:9
+
+//X-Fov
+patch=1,EE,002354e8,word,3c013f40

@@ -1,0 +1,5 @@
+gametitle=SkyGunner SLUS_203.84 
+//ELF CRC=A9461CB2
+comment=Widescreen Hack
+patch=1,EE,2017df80,extended,3F400000
+patch=1,EE,202f1d10,extended,3F400000

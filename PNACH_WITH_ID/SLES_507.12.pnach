@@ -1,0 +1,5 @@
+gametitle=NHL Hitz 2003 (SLES_50712) 
+//ELF CRC=1BAECD6A
+comment=Widescreen hack by No.47
+patch=1,EE,20720208,word,3F100000
+patch=1,EE,20720318,word,3F2AE148

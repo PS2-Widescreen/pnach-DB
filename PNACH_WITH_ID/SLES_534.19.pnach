@@ -1,0 +1,4 @@
+gametitle=L.A. Rush SLES_534.19 
+//ELF CRC=EA0CB4B8
+comment=Widescreen Hack
+patch=1,EE,002e3900,word,3c013f40 //ffff8434803f013c to ffff8434403f013c

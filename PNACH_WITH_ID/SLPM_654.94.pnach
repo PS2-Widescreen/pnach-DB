@@ -1,0 +1,6 @@
+gametitle=Fuun Shinsengumi [NTSC-J] (SLPM-65494) 
+//ELF CRC=AF95D8FC
+comment=Widescreen hack by Little Giant
+
+//16:9
+patch=1,EE,001476a0,word,3c023f40 //3c023f80

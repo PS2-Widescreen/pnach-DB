@@ -1,0 +1,7 @@
+gametitle=Spider-Man 3 (K)(SLKA-25385) 
+//ELF CRC=B35F8AAE
+comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+patch=1,EE,0032ab04,word,3c023f22 //3c023f00
+patch=1,EE,00348a58,word,3c023f22 //3c023f00

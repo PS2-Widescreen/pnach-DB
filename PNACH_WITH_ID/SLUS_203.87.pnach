@@ -1,0 +1,5 @@
+gametitle=Suikoden III (SLUS-20387) 
+//ELF CRC=5F3DD929
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000)
+patch=1,EE,016c21c0,word,460d6502
+patch=1,EE,016c21bc,word,460d6d42

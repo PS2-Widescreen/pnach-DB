@@ -1,0 +1,4 @@
+gametitle=LEGO Star Wars - The Video Game SLUS_210.83 
+//ELF CRC=926307DE
+comment=Widescreen Hack
+patch=1,EE,21f95534,extended,3f100000

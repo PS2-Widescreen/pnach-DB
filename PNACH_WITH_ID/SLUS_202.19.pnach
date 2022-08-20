@@ -1,0 +1,4 @@
+gametitle=Time Crisis 2 SLUS_202.19 
+//ELF CRC=D5D560FF
+comment=Widescreen Hack
+patch=1,EE,003cd7fc,word,3f400000

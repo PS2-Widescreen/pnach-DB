@@ -1,0 +1,4 @@
+gametitle=Spy Fiction SLUS_208.56 
+//ELF CRC=9551DBB1
+comment=Widescreen Hack
+patch=1,EE,201df11c,extended,3F2AAAAA

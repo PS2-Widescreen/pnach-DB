@@ -1,0 +1,4 @@
+gametitle=Musashi - Samurai Legend  SLUS_209.83 
+//ELF CRC=675CEB8F
+comment=Widescreen Hack
+patch=1,EE,203DD108,extended,3F19999A // 3F4CCCCD

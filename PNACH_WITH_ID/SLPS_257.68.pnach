@@ -1,0 +1,4 @@
+gametitle=Naruto Shippuden Narutimate Accel SLPS_257.68 
+//ELF CRC=F3D9DFBE
+comment=Widescreen Hack
+patch=1,EE,20a29914,extended,3f400000

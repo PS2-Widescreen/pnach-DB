@@ -1,0 +1,4 @@
+gametitle=Dark Cloud (SCUS-97111) 
+//ELF CRC=A5C05C78
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+patch=1,EE,0012df78,word,3c023f40

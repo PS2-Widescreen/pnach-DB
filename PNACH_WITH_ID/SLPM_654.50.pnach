@@ -1,0 +1,7 @@
+gametitle=Detective Gakuen Q (NTSC-J)(SLPM-65450) 
+//ELF CRC=970FEAB8
+comment=Widescreen hack by Arapapa
+
+//Characters ratio fix
+
+patch=1,EE,20428D88,word,3F400000 //3F800000

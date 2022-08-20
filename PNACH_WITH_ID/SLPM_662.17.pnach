@@ -1,0 +1,6 @@
+gametitle=Jikkyou Powerful Pro Yakyuu 12 Ketteiban (J)(SLPM-66217) 
+//ELF CRC=2440D76C
+comment=Widescreen hack by Arapapa
+
+//X-Fov 
+patch=1,EE,00312c5c,word,3f19999a //3f4ccccd

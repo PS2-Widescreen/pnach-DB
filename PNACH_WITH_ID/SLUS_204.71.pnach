@@ -1,0 +1,5 @@
+gametitle=Rygar - The Legendary Adventure (SLUS_20471) 
+//ELF CRC=3E2A42FA
+comment=Widescreen hack by No.47
+patch=1,EE,203E559C,word,3F19999A
+patch=1,EE,203F57CC,word,43D55555

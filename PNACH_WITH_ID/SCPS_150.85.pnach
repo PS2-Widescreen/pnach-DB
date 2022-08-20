@@ -1,0 +1,9 @@
+gametitle=Kenran Butou Sai - The Mars Daybreak (J)(SCPS-15085) 
+//ELF CRC=4BE2DE91
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov 
+
+patch=1,EE,00357640,word,3c013f40 //3c013f80

@@ -1,0 +1,5 @@
+gametitle=Shadow Hearts SLES_506.77 
+//ELF CRC=DEFA4763
+comment=Widescreen Hack
+patch=1,EE,0028fa98,word,3c043f40
+patch=1,EE,00284814,word,3c023f40

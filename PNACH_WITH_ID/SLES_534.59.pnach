@@ -1,0 +1,4 @@
+gametitle=Marc Ecko's Getting Up - Contents Under Pressure SLES_534.59 
+//ELF CRC=F73AC0A0
+comment=Widescreen Hack
+patch=1,EE,0056768c,word,3c023f40

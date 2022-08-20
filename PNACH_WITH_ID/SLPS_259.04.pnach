@@ -1,0 +1,4 @@
+gametitle=Katekyoo Hitman Reborn! Kindan no Yami no Delta [NTSC-J] (SLPS-25904) 
+//ELF CRC=E060A6A4
+comment=Widescreen hack
+patch=1,EE,2031D048,word,3f400000

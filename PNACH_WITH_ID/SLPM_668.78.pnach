@@ -1,0 +1,5 @@
+gametitle=Dokapon Kingdom (J) (SLPM_66878) 
+//ELF CRC=EEE2C773
+comment=Widescreen Hack (pnach by Arapapa)
+
+patch=1,EE,00436a98,word,3c023f22 // 003f023c

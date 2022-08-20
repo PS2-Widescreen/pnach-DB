@@ -1,0 +1,6 @@
+gametitle=Legendz Gekitou! Saga Battle [NTSC-J] (SLPS-25427) 
+//ELF CRC=8D1AFF7F
+comment=Widescreen Hack by Little Gaint
+
+//16:9
+patch=1,EE,206DA92C,extended,3F533334

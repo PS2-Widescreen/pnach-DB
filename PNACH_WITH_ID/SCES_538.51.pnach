@@ -1,0 +1,4 @@
+gametitle=Forbidden Siren 2 SCES_538.51 
+//ELF CRC=C040B6AB
+comment=Widescreen Hack
+patch=1,EE,00177a04,word,3c033f40

@@ -1,0 +1,6 @@
+gametitle=Anubis - Zone of the Enders (J)(SLPM-65236) 
+//ELF CRC=FB196496
+comment=Widescreen hack (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+patch=1,EE,0012a110,word,3c013f40 //3c013f80

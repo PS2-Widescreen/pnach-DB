@@ -1,0 +1,4 @@
+gametitle=Ruff Trigger - The Vanocore Conspiracy SLUS_213.14  
+//ELF CRC=F73488D5
+comment=Widescreen Hack
+patch=1,EE,001e9a28,word,3c013fd5

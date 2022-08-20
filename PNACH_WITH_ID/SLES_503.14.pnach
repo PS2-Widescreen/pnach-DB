@@ -1,0 +1,5 @@
+gametitle=Giants - Citizen Kabuto SLES_503.14 
+//ELF CRC=C0A963DB
+comment=Widescreen Hack
+patch=1,EE,003bc7c0,word,3fe38e39
+patch=1,EE,003bc978,word,3fe38e39

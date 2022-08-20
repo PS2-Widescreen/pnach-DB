@@ -1,0 +1,4 @@
+gametitle=We Love Katamari (SLUS-21230) 
+//ELF CRC=337B927C
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+patch=1,EE,00108308,word,3c0143d6

@@ -1,0 +1,5 @@
+gametitle=Dragon Rage (PAL-E) SLES_506.30 
+//ELF CRC=F035261E
+comment=Widescreen hack by dieSkaarj
+
+patch=1,EE,2029ef5e,word,00003fab //00003f80

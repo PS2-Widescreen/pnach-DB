@@ -1,0 +1,4 @@
+gametitle=Metal Slug 6 (J)(SLPS-25674) 
+//ELF CRC=2113EA2E
+comment=Widescreen hack by Esppiral
+patch=1,EE,00979744,word,3f400000

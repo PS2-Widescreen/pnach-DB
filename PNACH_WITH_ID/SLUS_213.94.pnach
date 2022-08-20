@@ -1,0 +1,4 @@
+gametitle=Tokyo Xtreme Racer: Drift 2 (SLUS-21394) 
+//ELF CRC=B32E018E
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000)
+patch=1,EE,203f59d0,extended,3f400000

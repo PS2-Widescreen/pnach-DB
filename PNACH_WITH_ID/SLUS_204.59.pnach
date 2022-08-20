@@ -1,0 +1,4 @@
+gametitle=Shinobi (SLUS-20459) 
+//ELF CRC=BFCC3E7E
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+patch=1,EE,00234a50,word,3c023f40

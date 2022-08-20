@@ -1,0 +1,7 @@
+gametitle=Dark Cloud (J)(SCPS-15004) 
+//ELF CRC=ECD8E386
+comment=Widescreen Hack
+
+
+patch=1,EE,0012ce28,word,3c023f40
+

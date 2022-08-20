@@ -1,0 +1,7 @@
+gametitle=Search & Destroy (E)(SLES-54033) 
+//ELF CRC=BE69820A
+comment=Widescreen hack by Arapapa
+
+//Wide Screen 16:9
+
+patch=1,EE,001c8db8,word,3c014340 //3c014380

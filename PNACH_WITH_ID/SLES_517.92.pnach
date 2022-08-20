@@ -1,0 +1,4 @@
+gametitle=Aliens Versus Predator - Extinction SLES_517.92 
+//ELF CRC=64DA75B2
+comment=Widescreen Hack
+patch=1,EE,0017fc74,word,3c023f40

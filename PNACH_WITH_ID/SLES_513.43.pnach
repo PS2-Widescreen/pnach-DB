@@ -1,0 +1,4 @@
+gametitle=Galerians Ash SLES_513.43 
+//ELF CRC=1AE08CF5
+comment=Widescreen Hack
+patch=1,EE,001e5f68,word,3c013f40

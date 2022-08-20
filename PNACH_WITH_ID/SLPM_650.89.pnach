@@ -1,0 +1,5 @@
+gametitle=Grandia Xtreme (J) SLPM-65089 
+//ELF CRC=958A6461
+comment=Widescreen Patches (pnach NTSC-J by Arapapa)
+
+patch=1,EE,204B4A28,extended,3F400000 // 3F800000

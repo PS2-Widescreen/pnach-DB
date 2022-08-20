@@ -1,0 +1,7 @@
+gametitle=Golf Paradise (J)(SLPS-20009) 
+//ELF CRC=9ED42B11
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,20338DA0,extended,3f400000 //3f800000

@@ -1,0 +1,6 @@
+gametitle=Jikkyou Powerful Pro Yakyuu 11 (J)(SLPM-65630) 
+//ELF CRC=92F4C42E
+comment=Widescreen hack by Arapapa
+
+//X-Fov 
+patch=1,EE,002efe0c,word,3f19999a //3f4ccccd

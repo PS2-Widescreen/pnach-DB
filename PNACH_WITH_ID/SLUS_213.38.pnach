@@ -1,0 +1,4 @@
+gametitle=Armored Core: Last Raven SLUS_213.38 
+//ELF CRC=1F34E107
+comment=Widescreen Hack
+patch=1,EE,00174e64,word,3c024455

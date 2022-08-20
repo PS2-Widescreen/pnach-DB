@@ -1,0 +1,4 @@
+gametitle=Tokobot Plus - Mysteries of the Karakuri SLUS_214.71 
+//ELF CRC=AE0148F7
+comment=Widescreen Hack
+patch=1,EE,0012833c,word,3c013f40

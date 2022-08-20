@@ -1,0 +1,6 @@
+gametitle=Guncom 2 (E)(SLES-52620) 
+//ELF CRC=6149414E
+comment=Widescreen Hack by by Arapapa
+
+//Widescreen hack 16:9
+patch=1,EE,00299ac0,word,3f400000 //3f800000

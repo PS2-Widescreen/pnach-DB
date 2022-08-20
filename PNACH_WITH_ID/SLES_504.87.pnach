@@ -1,0 +1,9 @@
+gametitle=Looney Tunes - Space Race (E)(SLES-50487) 
+//ELF CRC=5E641834
+comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//80bf023c e001b027 
+patch=1,EE,002ac728,word,3c02bf40 //3c02bf80

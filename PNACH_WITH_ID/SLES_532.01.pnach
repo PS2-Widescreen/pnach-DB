@@ -1,0 +1,4 @@
+gametitle=Saint Seiya - The Sanctuary SLES_532.01 
+//ELF CRC=BE2213F9
+comment=Widescreen Hack
+patch=1,EE,0015e404,word,3c033f40

@@ -1,0 +1,4 @@
+gametitle=Metal Gear 3 Snake Eater * SLES-82013 * PAL-E 
+//ELF CRC=98D4BC93
+comment=PAL-ESP Panoramico por Esppiral ;)
+patch=1,EE,20203FAC,extended,3F400000 // 3F800000

@@ -1,0 +1,5 @@
+gametitle=Viewtiful Joe 2 SLUS_209.39 
+//ELF CRC=1B7DA82A
+comment=Widescreen Hack
+patch=1,EE,002d8c00,word,3c013fe3
+patch=1,EE,002d8c04,word,34218e38

@@ -1,0 +1,4 @@
+gametitle=Metal Gear Solid 2 - Substance SLUS_205.54 
+//ELF CRC=C539049D
+comment=Widescreen Hack
+patch=1,EE,0011fee0,word,3c013f40

@@ -1,0 +1,7 @@
+gametitle=The Suieitaikai (K)(SLKA-15042) 
+//ELF CRC=BC0F422C
+comment=Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+patch=1,EE,00C93688,Word,3F400000

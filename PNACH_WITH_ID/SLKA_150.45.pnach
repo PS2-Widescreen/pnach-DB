@@ -1,0 +1,4 @@
+gametitle=The Chanbara (K)(SLKA-15045) 
+//ELF CRC=5204B254
+comment=NTSC-J Widescreen Hack by synce (NTSC-K by Arapapa)
+patch=1,EE,202B51F4,extended,3F400000

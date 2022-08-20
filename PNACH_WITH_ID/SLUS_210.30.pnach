@@ -1,0 +1,4 @@
+gametitle=Outlaw Golf 2 SLUS_210.30 
+//ELF CRC=1ED4B29C
+comment=Widescreen Hack
+patch=1,EE,006746c8,word,3f9c67c8 // 3f6aaaab

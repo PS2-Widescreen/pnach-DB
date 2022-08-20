@@ -1,0 +1,4 @@
+gametitle=Rez (SLUS_20344) 
+//ELF CRC=A33748AA
+comment=Widescreen hack by No.47
+patch=1,EE,2027E8C4,word,3F400000

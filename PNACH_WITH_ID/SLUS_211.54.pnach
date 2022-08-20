@@ -1,0 +1,4 @@
+gametitle=Killer 7 (SLUS_21154) 
+//ELF CRC=467BC7D8
+comment=Widescreen hack by No.47
+patch=1,EE,20DB5688,word,3FE38E38

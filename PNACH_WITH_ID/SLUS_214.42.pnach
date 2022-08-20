@@ -1,0 +1,4 @@
+gametitle=SuperDragonBall Z SLUS_214.42 
+//ELF CRC=FABD7602
+comment=Widescreen Hack
+patch=1,EE,002b12d4,word,3c023f10

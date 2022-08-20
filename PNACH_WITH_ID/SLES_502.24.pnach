@@ -1,0 +1,6 @@
+gametitle=Kuri Kuri Mix [PAL-M3] (SLES_502.24) 
+//ELF CRC=19D145D7
+comment=Widescreen hack by El_Patas
+ 
+//Gameplay 16:9
+patch=1,EE,00100280,word,3C013F40 //3C013F80 (Increases hor. axis)

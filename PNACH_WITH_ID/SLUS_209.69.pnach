@@ -1,0 +1,4 @@
+gametitle=S.L.A.I. - Steel Lancer Arena International SLUS_209.69 
+//ELF CRC=A9A55B5E
+comment=Widescreen Hack
+patch=1,EE,00267978,word,3c033f40

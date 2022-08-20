@@ -1,0 +1,5 @@
+gametitle=Virtua Quest SLUS_209.77 
+//ELF CRC=FF20AC4C
+comment=Widescreen Hack
+patch=1,EE,000ccf3c,word,3c033f40
+patch=1,EE,000ccf54,word,3c024420

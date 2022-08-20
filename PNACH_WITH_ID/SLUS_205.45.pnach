@@ -1,0 +1,5 @@
+gametitle=Zone of the Enders: The 2nd Runner SLUS_205.45 
+//ELF CRC=FD12A397
+comment=Widescreen Hack
+//16:9
+patch=1,EE,0012a1a0,extended,3c013f40

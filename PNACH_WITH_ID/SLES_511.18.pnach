@@ -1,0 +1,6 @@
+gametitle=Wizardry - Tale of the Forsaken Land (E)(SLES-51118) 
+//ELF CRC=82E47620
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+patch=1,EE,00119e24,word,3c0143e0 //3c0143a0

@@ -1,0 +1,6 @@
+gametitle=Blade II [PAL] (SLES_510.13) 
+//ELF CRC=66CC8148
+comment=Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+patch=1,EE,0018B798,word,3C033F40 //3C033F80 (Increases hor. axis)

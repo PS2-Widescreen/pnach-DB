@@ -1,0 +1,11 @@
+gametitle=Kidou Senshi Gundam Senki - Lost War Chronicles (K)(SLKA-25035) 
+//ELF CRC=3F192139
+comment=Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+patch=1,EE,00158e40,word,3c034370 //3c0343a0
+
+//Y-Fov
+patch=1,EE,001581dc,word,3c0343b4 //3c0343f0

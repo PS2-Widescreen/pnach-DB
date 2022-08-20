@@ -1,0 +1,4 @@
+gametitle=Fahrenheit SLES_535.39 
+//ELF CRC=8F96D103
+comment=Widescreen Hack
+patch=1,EE,20836500,extended,3FE38E38 // 3FAAAAAB

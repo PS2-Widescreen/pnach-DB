@@ -1,0 +1,7 @@
+gametitle=Mega Man X: Command Mission (SLUS-20903) 
+//ELF CRC=C3553F46
+comment=Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+patch=1,EE,0010ea24,word,3c013f40 //hor value
+patch=1,EE,0010ea28,word,44810000
+patch=1,EE,0010ea30,word,4600c602

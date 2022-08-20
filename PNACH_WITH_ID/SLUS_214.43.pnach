@@ -1,0 +1,4 @@
+gametitle=Da Vinci Code, The SLUS_214.43 
+//ELF CRC=9AC33DB5
+comment=Widescreen hack
+patch=1,EE,003ae5d8,word,3c023f40

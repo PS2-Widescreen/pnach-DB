@@ -1,0 +1,7 @@
+gametitle=Monster Hunter (J) (SLPM-65495) 
+//ELF CRC=C2008A92
+comment=Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Wide hack 16:9
+patch=1,EE,00169d24,word,3c023ff3 //3c023fb6
+patch=1,EE,00169d2c,word,3442cf35 //3442db6e

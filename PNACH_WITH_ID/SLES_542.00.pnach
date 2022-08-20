@@ -1,0 +1,8 @@
+gametitle=Just Cause (E-F)(SLES-54200) 
+//ELF CRC=151DF9C9
+comment=Widescreen hack  by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 0000803f 0000003f 66666645
+patch=1,EE,207BED88,extended,3FAAAAAB //3f800000

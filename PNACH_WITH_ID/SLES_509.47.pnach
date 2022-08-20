@@ -1,0 +1,6 @@
+gametitle=Britney's Dance Beat [PAL] (SLES-50947) 
+//ELF CRC=C0EE68EC
+comment=Britney's Dance Beat
+
+//Widescreen
+patch=1,EE,20348134,word,3F400000

@@ -1,0 +1,4 @@
+gametitle=Time Crisis 3 SLUS_206.45 
+//ELF CRC=7290669C
+comment=Widescreen Hack
+patch=1,EE,0033976c,word,3f400000

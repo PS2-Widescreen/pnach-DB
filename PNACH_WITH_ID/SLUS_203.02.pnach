@@ -1,0 +1,5 @@
+gametitle=XG3 - Extreme G Racing (SLUS_20302) 
+//ELF CRC=D0B9C45F
+comment=Widescreen hack by No.47
+patch=1,EE,2022CF04,word,3FE38E38
+patch=1,EE,2022D014,word,42AC0000

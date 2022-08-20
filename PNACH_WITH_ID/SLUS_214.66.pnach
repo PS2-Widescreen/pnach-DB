@@ -1,0 +1,4 @@
+gametitle=The Plan SLUS_214.66 
+//ELF CRC=447DE0BA
+comment=Widescreen Hack
+patch=1,EE,001125C8,word,3C033FAA

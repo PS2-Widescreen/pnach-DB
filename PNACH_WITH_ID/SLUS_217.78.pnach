@@ -1,0 +1,4 @@
+gametitle=Dokapon Kingdom SLUS_217.78 
+//ELF CRC=CDE9832D
+comment=Widescreen Hack
+patch=1,EE,0043b8a8,word,3c023f22

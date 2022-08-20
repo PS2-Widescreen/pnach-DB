@@ -1,0 +1,6 @@
+gametitle=Freekstyle [PAL-M5] (SLES_507.53) 
+//ELF CRC=3D2FC5EE
+comment=Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+patch=1,EE,00144160,word,3C023F40 //3C023F80 (Increases hor. axis)
