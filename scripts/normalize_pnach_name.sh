@@ -22,6 +22,8 @@ echo 	processing $a
 		fi
 		ELF=$(echo "$ELF" | sed 's/-/_/g')
 		echo final result was $ELF
-		mv $a $ELF.pnach
+		CRC=$(basename $a .pnach)
+		sed -i '/^gametitle=/ s/$/ \n\/\/ELF CRC=""/' "$a"
+		mv "$a" "../PNACH_WITH_ID/$ELF.pnach"
 	fi
 done
