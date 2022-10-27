@@ -208,7 +208,6 @@ SLES_503.00;Time Crisis 2
 SLES_503.06;Resident Evil - CODE Veronica X
 SLES_503.06;Resident Evil - Code Veronica X
 SLES_503.25;Max Payne
-SLES_503.50;Disneys Tarzan - Freeride
 SLES_503.55;Batman Vengeance
 SLES_503.64;City Crisis
 SLES_503.71;Star Wars - Jedi Starfighter
@@ -474,7 +473,6 @@ SLES_525.67;Catwoman
 SLES_525.71;Pacific Air Warriors 2 - Dogfight
 SLES_525.72;Operation Air Assault
 SLES_525.76;Yu-Gi-Oh! - Capsule Monster Colisee
-SLES_525.84;Burnout 3 - Takedown
 SLES_525.90;Mercenaries
 SLES_525.92;Dynasty Warriors 4 - Empires
 SLES_526.20;Guncom 2
@@ -534,7 +532,6 @@ SLES_530.07;Tom Clancys Splinter Cell - Chaos Theory
 SLES_530.11;Gallop Racer 2
 SLES_530.14;Tenchu - Fatal Shadows
 SLES_530.22;ESPN NBA 2K5
-SLES_530.38;Devil May Cry 3 - Dantes Awakening
 SLES_530.39;Champions - Return to Arms
 SLES_530.45;Street Racing Syndicate
 SLES_530.47;Punisher, The
@@ -566,7 +563,6 @@ SLES_531.75;Top Spin
 SLES_531.86;International Super Karts
 SLES_531.91;Kaido Racer
 SLES_531.92;Nightmare Before Christmas, The - Tim Burtons
-SLES_532.00;DragonBall Z - Budokai Tenkaichi
 SLES_532.19;Winx Club
 SLES_532.37;Fire Heroes
 SLES_532.42;Madagascar
@@ -594,7 +590,6 @@ SLES_534.71;LMA Manager 2006
 SLES_534.74;Incredibles, The - Rise of the Underminer
 SLES_534.80;Harvest Moon - A Wonderful Life [Special Edition]
 SLES_534.85;Car Racing Challenge
-SLES_534.92;Total Overdose
 SLES_534.94;Spongebob Squarepants - Lights, Camera, PANTS!
 SLES_535.07;Burnout Revenge
 SLES_535.70;Ninjabread Man
@@ -659,7 +654,6 @@ SLES_541.57;SnoCross 2 - Featuring Blair Morgan
 SLES_541.58;Hummer Badlands
 SLES_541.59;Eragon
 SLES_541.63;Naruto - Ultimate Ninja
-SLES_541.64;DragonBall Z Budokai - Tenkaichi 2
 SLES_541.65;One Piece - Grand Adventure
 SLES_541.72;Garfield 2 - Tale of Two Kitties
 SLES_541.86;Devil May Cry 3 - Dantes Awakening [Special Edition]
@@ -819,17 +813,12 @@ SLES_555.45;WWE Smackdown vs Raw 2010
 SLES_555.46;The Secret Saturdays - Beasts of the 5th Sun
 SLES_555.87;Pro Evolution Soccer 2010
 SLES_555.92;Ben 10 Alien Force - Vilgax Attacks
-SLES_556.05;Naruto Shippuden - Ultimate Ninja 5
 SLES_556.10;Springdale
 SLES_556.22;Disney/Pixar Toy Story 3
 SLES_556.25;Despicable Me
-SLES_556.35;WWE SmackDown vs Raw 2011
 SLES_556.36;Pro Evolution Soccer 2011
 SLES_556.48;WWE All Stars
 SLES_556.56;Pro Evolution Soccer 2012
-SLES_556.66;Pro Evolution Soccer 2013
-SLES_556.73;Pro Evolution Soccer 2014
-SLES_556.76;Pro Evolution Soccer 2014
 SLES_820.10;Metal Gear Solid 2, Document of
 SLES_820.13;Metal Gear Solid 3 - Snake Eater
 SLES_820.18;Cy Girls
@@ -1064,9 +1053,7 @@ SLPM_550.62;Jikkyou Powerful Major League 3
 SLPM_550.82;Shin Sangoku Musou 5 Special
 SLPM_551.30;Pro Yakyuu Spirits 5 Kanzenban
 SLPM_551.58;Pro Yakyuu Spirits 6
-SLPM_551.82;J.League Winning Eleven 2009 - Club Championship
 SLPM_552.52;Pro Yakyuu Spirits 2010
-SLPM_552.62;J.League Winning Eleven 2010 Club Championship
 SLPM_552.76;World Soccer Winning Eleven 2011
 SLPM_552.94;World Soccer Winning Eleven 2012
 SLPM_601.43;Tekkouki Mikazuki
@@ -1609,7 +1596,6 @@ SLPS_203.05;Real Sports Professional Baseball
 SLPS_203.29;Kamen Rider 555
 SLPS_203.67;Curry House Coco Ichibanya
 SLPS_203.69;Kinnikuman Generations
-SLPS_203.74;Football Kingdom [Trial Edition]
 SLPS_203.80;Shinkon Gattai Gondannar!!
 SLPS_203.81;Monkey Turn V
 SLPS_203.91;Saiyuki Gunlock
@@ -1952,6 +1938,5 @@ SLUS_218.96;Secret Saturdays, The - Beasts of the 5th Sun
 SLUS_219.23;Nickelodeon Dora the Explorer - Dora Saves the Crystal Kingdom
 SLUS_219.33;Despicable Me - The Game
 SLUS_219.48;PES 2012 - Pro Evolution Soccer
-SLUS_219.55;PES 2013 - Pro Evolution Soccer
 SLUS_257.24;Firefighter F.D. 18
 _Hitman2-Silent_assasin;UNKNOWN TITLE
