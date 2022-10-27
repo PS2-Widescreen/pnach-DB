@@ -2,7 +2,7 @@ gametitle=Project - Snowblind (PAL-M4) (SLES-53124)
 //ELF CRC=F00CA82B
 comment=Widescreen hack by ElHecht
 
-// 16:9 intro (SLES_531.24)
+// 16:9 intro (MAIN ELF)
 patch=1,EE,e0023faa,extended,001d98a0 // check 001d98a0 matches value 00003faa
 patch=1,EE,201d98a0,extended,3c013fe3 // 3c013faa hor fov
 patch=1,EE,201d98a4,extended,34218e39 // 3421aaab hor fov
