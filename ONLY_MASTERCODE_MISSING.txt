@@ -1,14 +1,4 @@
 PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
-PBPX_952.01;Dead or Alive 2
 PBPX_955.06;Official PlayStation 2 Magazine Demo Disc 2001
 SCES_500.02;FantaVision
 SCES_502.40;Extermination
@@ -17,8 +7,6 @@ SCES_502.93;ATV Off-Road
 SCES_504.08;PaRappa the Rapper 2
 SCES_504.59;Dropship - United Peace Force
 SCES_504.90;Final Fantasy X
-SCES_504.90;Final Fantasy X
-SCES_504.92;Final Fantasy X
 SCES_504.92;Final Fantasy X
 SCES_505.00;Headhunter
 SCES_505.22;Disney Peter Pan - Adventures in Neverland
@@ -303,8 +291,6 @@ SLES_510.57;Hard Hitter 2
 SLES_510.60;Butt Ugly Martians
 SLES_510.64;Gladius
 SLES_510.69;RTX - Red Rock
-SLES_510.69;RTX - Red Rock
-SLES_510.69;RTX - Red Rock
 SLES_510.81;Club Football - Juventus 2003-2004 Season
 SLES_510.89;Club Football - Arsenal
 SLES_510.93;Largo Winch - Empire Under Threat
@@ -383,7 +369,6 @@ SLES_517.92;Aliens vs Predator - Extinction
 SLES_518.12;Homerun
 SLES_518.13;European Tennis Pro
 SLES_518.14;ATV Off-Road Fury 2
-SLES_518.16;Final Fantasy X-2
 SLES_518.16;Final Fantasy X-2
 SLES_518.20;Sniper Elite
 SLES_518.21;Alias
@@ -1210,11 +1195,9 @@ SLPM_650.08;7 Blades
 SLPM_650.09;ESPN X-Games Snowboarding
 SLPM_650.13;Shadow of Memories
 SLPM_650.15;Kessen 2
-SLPM_650.15;Kessen 2
 SLPM_650.22;BioHazard - Code Veronica - Perfect Version
 SLPM_650.33;Kikou Heiden - J-Pheonix
 SLPM_650.38;Devil May Cry
-SLPM_650.47;Capcom vs SNK 2
 SLPM_650.47;Capcom vs SNK 2
 SLPM_650.48;Kinniku Banzuke - Muscle Wars 21
 SLPM_650.54;Princess Abarenbou
@@ -1418,7 +1401,6 @@ SLPM_661.84;Ikusa Gami
 SLPM_661.93;Fahrenheit
 SLPM_662.06;Battlefield 2 - Modern Combat
 SLPM_662.11;King Kong, Peter Jacksons - The Official Game of the Movie
-SLPM_662.12;Sega Rally 2006
 SLPM_662.12;Sega Rally 2006
 SLPM_662.17;Jikkyou Powerful Pro Yakyuu 12 Ketteiban
 SLPM_662.21;Metal Gear Solid 3 - (Disc 2) Persistence
@@ -1738,7 +1720,6 @@ SLPS_255.75;Keroro Gunsou - Mero Mero Battle Royale Z
 SLPS_255.77;Soul Calibur III
 SLPS_255.85;Monster Farm 5
 SLPS_255.86;Tales of the Abyss
-SLPS_255.86;Tales of the Abyss
 SLPS_256.00;Samurai Champloo - Sidetracked
 SLPS_256.01;Ueki no Housoku - Taosu Zeroberuto Juudan!!
 SLPS_256.04;Ar Tonelico - Sekai no Owari de Utai Tsudukeru Shoujo
@@ -1796,9 +1777,7 @@ SLPS_732.08;DragonBall Z 2 [PlayStation 2 The Best]
 SLPS_734.18;Shadow Hearts [PlayStation 2 The Best]
 SLUS_021.312;UNKNOWN TITLE
 SLUS_200.03;Portal Runner
-SLUS_200.03;Portal Runner
 SLUS_200.05;World Destruction League - Thunder Tanks
-SLUS_200.35;Baldurs Gate - Dark Alliance
 SLUS_200.35;Baldurs Gate - Dark Alliance
 SLUS_200.39;Top Gear Dare Devil
 SLUS_200.45;Legend of Alon Dar, The
@@ -1812,7 +1791,6 @@ SLUS_201.00;NHL 2001
 SLUS_201.02;NBA Live 2001
 SLUS_201.03;F1 2000 Championship Edition
 SLUS_201.04;Tiger Woods PGA Tour 2001
-SLUS_201.13;Driving Emotion Type S
 SLUS_201.13;Driving Emotion Type S
 SLUS_201.301;UNKNOWN TITLE
 SLUS_201.33;High Heat Baseball 2002
@@ -1873,9 +1851,7 @@ SLUS_207.04;Backyard Basketball
 SLUS_207.37;Hot Wheels - World Race
 SLUS_207.41;Mojo!
 SLUS_207.48;Super Trucks Racing
-SLUS_207.48;Super Trucks Racing
 SLUS_207.53;Medal of Honor - Rising Sun
-SLUS_207.57;Tiger Woods PGA Tour 2004
 SLUS_207.57;Tiger Woods PGA Tour 2004
 SLUS_208.05;Yu Yu Hakusho - Dark Tournament
 SLUS_208.46;Strike Force Bowling
@@ -1908,9 +1884,7 @@ SLUS_213.14;Ruff Trigger - Vancore Conspiracy
 SLUS_213.19;Flow - Urban Dance Uprising
 SLUS_213.23;Rampage - Total Destruction
 SLUS_213.62;Onimusha - Dawn of Dreams
-SLUS_213.62;Onimusha - Dawn of Dreams
 SLUS_213.651;UNKNOWN TITLE
-SLUS_213.86;Tales of the Abyss
 SLUS_213.86;Tales of the Abyss
 SLUS_213.89;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 1]
 SLUS_213.96;Star Trek - Encounters

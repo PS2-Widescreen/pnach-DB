@@ -8,7 +8,7 @@ for %%a in (PNACH_WITH_ID\*.pnach) do if not exist ..\OPL-Widescreen-Cheats\CHT\
 echo make single line entries
 type ONLY_MASTERCODE_MISSING.txt | busybox tr "," "\n" >ONLY_MASTERCODE_MISSING2.txt && echo replaced comma with \r\n || echo error replacing comma with \r\n
 echo normalizing to \r\n and sort list
-type ONLY_MASTERCODE_MISSING2.txt | busybox unix2dos | busybox sort >ONLY_MASTERCODE_MISSING.txt
+type ONLY_MASTERCODE_MISSING2.txt | busybox unix2dos | busybox sort | busybox uniq >ONLY_MASTERCODE_MISSING.txt
 
 del ONLY_MASTERCODE_MISSING2.txt
 echo check for gametitle list
