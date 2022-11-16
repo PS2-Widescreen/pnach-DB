@@ -11,8 +11,7 @@ From here, codes will be converted and set to await for a master code to be prov
 ```mermaid
 pie title cheats available (values may not be exact, but aproximated)
 
-  "waiting mastercode": 2152
+  "waiting mastercode": 1244
   "waiting mastercode & ID": 252
-  "Ready to use": 1521
-  "Ready to use (but broken)": 18
+  "Ready to use": 2467
 ```
