@@ -1,21 +1,11 @@
 PBPX_952.01;Dead or Alive 2
 PBPX_955.06;Official PlayStation 2 Magazine Demo Disc 2001
-SCES_500.02;FantaVision
-SCES_502.44;This is Football 2002
-SCES_502.93;ATV Off-Road
 SCES_504.90;Final Fantasy X
 SCES_504.92;Final Fantasy X
 SCES_505.95;Disney-Pixar Monsters Inc.
-SCES_506.00;Disney Monster Inc. - Scare Island
-SCES_509.66;Disneys Stitch - Experiment 626
-SCES_510.39;This is Football 2003
-SCES_511.77;Disneys Treasure Planet
-SCES_519.10;Arc the Lad - Twilight of the Spirits
 SCES_523.27;Forbidden Siren
 SCES_523.29;Forbidden Siren
-SCES_525.82;Everybodys Golf
 SCES_530.54;Death by Degrees
-SCES_545.35;Everybodys Tennis
 SCKA_200.01;XI5
 SCKA_200.02;Time Crisis II
 SCKA_200.03;War of the Monsters - Kaijuu Daigekisen
@@ -61,8 +51,6 @@ SCKA_201.14;Obscure II - The Aftermath
 SCKA_201.32;Persona 4
 SCKA_300.02;God of War
 SCKA_300.06;God of War 2
-SCPS_110.01;I.Q. Remix
-SCPS_110.02;Fantavision
 SCPS_110.03;Ico
 SCPS_110.06;Sky Gunner
 SCPS_110.07;Tsuganai
@@ -72,8 +60,6 @@ SCPS_110.24;Otostaz
 SCPS_110.26;Gacharoku
 SCPS_110.27;Mawaza
 SCPS_110.28;Lets Bravo Music
-SCPS_110.32;Vib Ripple
-SCPS_110.33;Mojib-Ribbon
 SCPS_110.34;Gacharoku 2
 SCPS_150.03;Sky Odyssey
 SCPS_150.04;Dark Cloud
@@ -118,154 +104,81 @@ SCUS_972.60;War of the Monsters [Demo]
 SLES_500.34;MotoGP
 SLES_500.42;Disneys Dinosaur
 SLES_500.43;Disneys Dinosaur
-SLES_500.45;Disneys Jungle Book - Groove Party
-SLES_500.55;Smugglers Run
-SLES_500.61;Smugglers Run
-SLES_500.68;Top Gear Daredevil
 SLES_501.58;Gungriffon Blaze
-SLES_502.20;EA Sports Rugby
-SLES_502.59;Flintstones - Viva Rock Vegas
 SLES_503.00;Time Crisis 2
-SLES_504.00;Shaun Palmers Pro Snowboarder
 SLES_504.09;MotoGP 2
 SLES_504.38;Motor Mayhem
-SLES_504.77;WWF Smackdown! - Just Bring It
-SLES_504.79;Turok Evolution
-SLES_505.58;DSF Fußball Manager 2002
 SLES_506.30;Dragon Rage
-SLES_507.30;VIP
 SLES_508.10;Smash Court Tennis - Pro Tournament
-SLES_508.52;Sven-Goran Erikssons World Challenge
 SLES_508.74;F1 2002
 SLES_508.78;Tekken 4
-SLES_508.86;Transworld Surf
 SLES_509.03;MegaRace 3 - Nanotech Disaster
-SLES_509.47;Britneys Dance Beat
 SLES_509.95;Fireblade
-SLES_509.98;Xtreme Express - World Grand Prix
-SLES_509.99;UFC Throwdown
-SLES_510.17;Scooby-Doo! and The Night of 100 Frights
-SLES_510.38;MX Superfly featuring Ricky Carmichael
-SLES_510.60;Butt Ugly Martians
 SLES_510.64;Gladius
 SLES_510.69;RTX - Red Rock
-SLES_511.80;Tom Clancys The Sum of All Fears
-SLES_511.89;MTVs Celebrity Deathmatch
-SLES_512.00;Kelly Slaters Pro Surfer
-SLES_512.01;Kelly Slaters Pro Surfer
-SLES_512.53;Lord of the Rings, The - The Two Towers [Seigneur des Anneaux - Les Deux Tours]
-SLES_512.85;Spongebob Squarepants - Revenge of the Flying Dutchman
-SLES_513.43;Galerians - Ash
-SLES_513.62;Simpsons Skateboarding
 SLES_513.81;Everblue 2
 SLES_515.84;F1 Career Challenge
-SLES_516.03;Seek & Destroy
 SLES_517.18;League Series Baseball 2
-SLES_517.50;Charlies Angels
-SLES_517.92;Aliens vs Predator - Extinction
-SLES_518.14;ATV Off-Road Fury 2
 SLES_518.16;Final Fantasy X-2
 SLES_518.20;Sniper Elite
 SLES_518.44;Time Crisis 3
 SLES_518.73;Medal of Honor - Rising Sun
-SLES_519.56;Bionicle - The Game
-SLES_520.34;Dr. Seuss Cat in the Hat
-SLES_521.04;Tak and the Power of JuJu
 SLES_521.35;Hitman - Contracts
-SLES_521.88;Baldurs Gate - Dark Alliance 2
-SLES_522.04;UFC Sudden Impact
-SLES_523.67;Americas 10 Most Wanted
 SLES_523.73;Champions of Norrath: Realms of EverQuest
 SLES_525.05;Spy Fiction
-SLES_525.23;Cocoto - Platform Jumper
 SLES_525.25;Mouse Trophy
-SLES_525.71;Pacific Air Warriors 2 - Dogfight
-SLES_526.71;Ghostmaster
-SLES_527.10;McFarlanes Evil Prophecy
 SLES_527.38;Obscure
-SLES_528.07;Lemony Snickets A Series of Unfortunate Events
-SLES_528.16;Incredibles, The
-SLES_528.45;Gadget and the Gadgetinis
 SLES_528.58;Cocoto Kart Racer
-SLES_528.67;Spindrive Ping Pong
 SLES_528.92;Moto GP 4
 SLES_531..24;UNKNOWN TITLE
 SLES_531.00;Scooby Doo! Unmasked
-SLES_531.07;Cabelas Big Game Hunter 2005 Adventures
 SLES_531.24;Project Snowblind
 SLES_531.42;Doomsday Racers
-SLES_531.48;Fruitfall
 SLES_532.19;Winx Club
 SLES_532.42;Madagascar
-SLES_533.20;S.C.A.R. - Squadra Corse Alfa Romeo
 SLES_533.32;Medal of Honor - European Assault
 SLES_533.40;Dynasty Warriors 5
 SLES_533.53;Shaman King - Power of Spirit
 SLES_533.91;Ultimate Spider-Man
-SLES_533.99;Yazuka Fury
 SLES_534.52;Trixie in Toyland
-SLES_534.59;Marc Eckos Getting Up - Contents Under Pressure
 SLES_534.85;Car Racing Challenge
-SLES_534.94;Spongebob Squarepants - Lights, Camera, PANTS!
 SLES_535.79;One Piece - Grand Battle
 SLES_535.94;Living World Racing
 SLES_536.14;Classic British Motor Racing
 SLES_537.17;Midnight Club 3 - DUB Edition Remix
-SLES_537.39;Disneys Chicken Little
 SLES_537.44;Disneys Chicken Little
 SLES_538.00;Rampage - Total Destruction
 SLES_538.05;Cocoto Funfair
 SLES_538.48;Flow - Urban Dance Uprising
 SLES_539.15;Space War Attack
-SLES_539.40;Smarties Meltdown
-SLES_540.07;Disney-Pixars Cars
-SLES_540.33;Search and Destroy
 SLES_541.14;Kingdom Hearts II
 SLES_541.72;Garfield 2 - Tale of Two Kitties
 SLES_542.15;Monster House
-SLES_542.22;SuperBikes Riding Challenge
 SLES_542.33;Kingdom Hearts II
-SLES_542.39;Wild ARMs 4
 SLES_543.11;Noddy and The Magic Book
 SLES_543.66;David Douillet Judo
-SLES_544.20;Arthus & The Minimoys
 SLES_544.31;Teen Titans
-SLES_544.65;CSI 3 - Dimensions of Murder
-SLES_544.83;The Fast and the Furious
-SLES_545.21;Spongebob and Friends - Battle for Volcano Island
 SLES_545.37;K.O. King
 SLES_545.52;Rogue Galaxy
-SLES_545.83;Surfs Up
 SLES_546.14;Lucinda Greens Equestrian Challenge
-SLES_546.26;An American Tail
 SLES_546.65;Paddington Bear
-SLES_546.72;Caspers Scare School
 SLES_546.83;Medal of Honor - Vanguard
 SLES_547.15;Tony Hawks Downhill Jam
-SLES_547.92;WWC - World Wrestling Championship
 SLES_548.17;Garfield - Lasagna World Tour
 SLES_548.18;Super PickUps
-SLES_548.97;Grim Grimoire
-SLES_549.91;Nicktoons - Attack of the Toybots
 SLES_550.08;Riding Star 3
 SLES_550.13;Iridium Runners
-SLES_550.24;SpongeBobs Atlantis SquarePantis
 SLES_550.30;Disney/Pixar Cars - Mater-National Championship
 SLES_550.43;Garfield - Lasagna World Tour
-SLES_551.02;The History Channel - Battle for the Pacific
 SLES_551.22;Moorhuhn Fun Kart 2008
 SLES_551.52;Skyscraper
 SLES_551.72;Code Lyoko: Quest for Infinity
 SLES_552.02;Tim Stockdales Riding Star
 SLES_552.36;DreamWorks Kung Fu Panda
-SLES_553.28;The Millenium European Paintball Series - Championship Paintball 2009
-SLES_553.31;Cabelas Dangerous Adventures
 SLES_553.83;Warriors Orochi 2
-SLES_555.29;Germanys Next Topmodel
 SLES_555.36;Cars Race-O-Rama
 SLES_555.46;The Secret Saturdays - Beasts of the 5th Sun
 SLES_555.87;Pro Evolution Soccer 2010
-SLES_556.22;Disney/Pixar Toy Story 3
 SLES_556.36;Pro Evolution Soccer 2011
 SLES_556.56;Pro Evolution Soccer 2012
 SLES_820.18;Cy Girls
@@ -364,7 +277,6 @@ SLKA_251.35;KUNOICHI
 SLKA_251.36;Need for Speed - Underground
 SLKA_251.37;The Sims - Bustin Out
 SLKA_251.38;.hack//Part 2 - Mutation
-SLKA_251.39;Fu-un Shinsengumi
 SLKA_251.40;MEDAL OF HONOR - RISING SUN
 SLKA_251.42;Tak and the Power of Juju
 SLKA_251.44;Final Fantasy X-2
@@ -631,7 +543,6 @@ SLPM_650.08;7 Blades
 SLPM_650.09;ESPN X-Games Snowboarding
 SLPM_650.13;Shadow of Memories
 SLPM_650.15;Kessen 2
-SLPM_650.22;BioHazard - Code Veronica - Perfect Version
 SLPM_650.33;Kikou Heiden - J-Pheonix
 SLPM_650.47;Capcom vs SNK 2
 SLPM_650.48;Kinniku Banzuke - Muscle Wars 21
@@ -663,7 +574,6 @@ SLPM_652.06;King of Colosseum - Green
 SLPM_652.07;Chou Battle Houshin
 SLPM_652.17;Seaman Kanzeiban
 SLPM_652.21;Clock Tower 3
-SLPM_652.27;J-League Pro Soccer Club - Tsukuku! 3
 SLPM_652.29;Arms Men - Air Attack 2
 SLPM_652.34;Gregory Horror Show - Soul Collector
 SLPM_652.35;New Roommania - Porori Seishun
@@ -677,7 +587,6 @@ SLPM_652.70;Virtua Fighter 4 - Evolution
 SLPM_652.78;Generation of Chaos 3 [Limited Edition]
 SLPM_652.79;Generation of Chaos 3
 SLPM_653.00;All-Star Pro Wrestling 3
-SLPM_653.03;Virtual On - Marz
 SLPM_653.08;Shutokou Battle 01
 SLPM_653.24;Gregory Horror Show - Soul Collector
 SLPM_653.26;Choro Q HG 4
@@ -702,11 +611,9 @@ SLPM_654.12;War of the Monsters
 SLPM_654.16;Pride Grand Prix 2003
 SLPM_654.19;Tony Hawks Pro Skater 2003
 SLPM_654.27;Riding Spirits 2
-SLPM_654.28;BioHazard Outbreak
 SLPM_654.33;K-1 World Grand Prix 2003
 SLPM_654.34;Battle Gear 3
 SLPM_654.42;Terminator 3, The - Rise of the Machines
-SLPM_654.44;Castlevania - Lament of Innocence
 SLPM_654.50;Detective Gakuen Q
 SLPM_654.58;Kurogane no Houkou 2 - Warship Commander
 SLPM_654.60;Conflict Delta - Wangan War 1991
@@ -723,7 +630,6 @@ SLPM_655.06;Cool Girl
 SLPM_655.14;Kaido Battle 2 - Chain Reaction
 SLPM_655.17;Sengoku Musou
 SLPM_655.26;Dororo
-SLPM_655.30;J-League Pro Soccer Club - Tsukuku 2004
 SLPM_655.51;Astro Boy Atom
 SLPM_655.54;Croket Ban - King no Kiki wo Sukuu
 SLPM_655.71;Generation of Chaos 4 [Limited Edition]
@@ -739,7 +645,6 @@ SLPM_656.12;Harry Potter and The Prisoner of Azkaban
 SLPM_656.13;Yu-Gi-Oh! Capsule Monster Coliseum
 SLPM_656.30;Jikkyo Powerful Pro Baseball XI
 SLPM_656.32;Virtua Fighter Cyber Generation - Ambition of the Judgement Six
-SLPM_656.35;Bakuen Kakeshi Neverland Senki Zero
 SLPM_656.37;Rakugaki Oukoku 2 - Majo no Tataki
 SLPM_656.42;Meiwaku Seijin Panic Maker
 SLPM_656.52;Kowloon Youma Gakuenki
@@ -748,7 +653,6 @@ SLPM_656.62;Spider-Man 2
 SLPM_656.69;Spectral Force - Radical Elements
 SLPM_656.70;Aqua Kids
 SLPM_656.85;Stella Deus
-SLPM_656.92;BioHazard Outbreak - File 2
 SLPM_656.95;Hard Luck - Return of the Heroes
 SLPM_656.97;Shrek 2
 SLPM_656.99;Viewtiful Joe - Aratanaru Kibo
@@ -963,7 +867,6 @@ SLPS_202.14;3D Fighting School 2
 SLPS_202.22;Inaka Kurasi - Nan no Shima no Monogatari
 SLPS_202.30;Chulip
 SLPS_202.34;Harry Potter to Himitsu no Heya
-SLPS_202.45;Low Rider
 SLPS_202.47;Lotus Challenge
 SLPS_202.51;Makai Senki Disaea
 SLPS_202.66;Baskelian
@@ -1069,7 +972,6 @@ SLPS_254.06;Hitman - Contracts
 SLPS_254.08;Armored Core - Nine Breaker
 SLPS_254.21;Bokujou Monogarari - Oh! Wonderful Life
 SLPS_254.25;SD Gundam Force Daikessen!
-SLPS_254.26;Detective Conan - Inheritance of Britain
 SLPS_254.41;Ultraman Fighting Evolution 3
 SLPS_254.47;Aim for the Top! Gunbuster
 SLPS_254.53;Digimon World X
@@ -1081,7 +983,6 @@ SLPS_254.65;Azumi
 SLPS_254.70;Bouken-ou Beat - Dark Next Century
 SLPS_254.76;Saint Seiya Seiiki Juunikyuu Hen
 SLPS_254.78;Mobile Suit Gundam - One Year War
-SLPS_254.79;Gold Gashbell - Friendship Tag Battle 2
 SLPS_254.98;Jikuu Bouken Zentrix
 SLPS_254.99;Yu Yu Hakusho Forever
 SLPS_255.18;InuYasha - Ougi Ranbu
@@ -1182,7 +1083,6 @@ SLUS_204.78;Disneys PK - Out of the Shadows
 SLUS_204.84;Devil May Cry 2 [Disc 1]
 SLUS_205.13;NBA Starting Five
 SLUS_205.24;Fighter Maker 2
-SLUS_205.27;Butt Ugly Martians - Zoom or Doom!
 SLUS_205.28;Zapper - One Wicked Cricket
 SLUS_205.43;Metal Gear Solid 2
 SLUS_205.55;Reel Fishing 3
@@ -1200,7 +1100,6 @@ SLUS_207.57;Tiger Woods PGA Tour 2004
 SLUS_208.70;Ultimate Spider-Man
 SLUS_208.82;Hitman - Contracts
 SLUS_208.92;Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 1]
-SLUS_209.05;Incredibles, The
 SLUS_209.31;Trigger Man
 SLUS_209.59;Dukes of Hazzard, The - Return of the General Lee
 SLUS_209.86;Armored Core - Nexus [Evolution Disc]
@@ -1214,7 +1113,6 @@ SLUS_211.33;Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 2]
 SLUS_211.80;Onimusha - Dawn of Dreams
 SLUS_211.99;Medal of Honor - European Assault
 SLUS_212.061;UNKNOWN TITLE
-SLUS_212.17;Incredibles, The - Rise of the Underminers
 SLUS_212.85;Ultimate Spider-Man [Limited Edition]
 SLUS_213.14;Ruff Trigger - Vancore Conspiracy
 SLUS_213.19;Flow - Urban Dance Uprising
@@ -1224,7 +1122,6 @@ SLUS_213.651;UNKNOWN TITLE
 SLUS_213.86;Tales of the Abyss
 SLUS_213.89;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 1]
 SLUS_214.00;Monster House
-SLUS_214.03;Backyard Baseball 07
 SLUS_214.17;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 2]
 SLUS_214.53;Disneys Meet the Robinsons
 SLUS_214.86;Eagle Eye Golf
@@ -1234,7 +1131,6 @@ SLUS_216.60;Disney Princess - Enchanted Journey
 SLUS_216.66;Mountain Bike Adrenaline
 SLUS_216.97;Iridium Runners
 SLUS_217.34;Falling Stars
-SLUS_217.54;CID the Dummy
 SLUS_218.83;Disney/Pixar Cars - Race-O-Rama
 SLUS_218.96;Secret Saturdays, The - Beasts of the 5th Sun
 SLUS_219.33;Despicable Me - The Game
