@@ -130,7 +130,6 @@ SLES_525.25;Mouse Trophy
 SLES_527.38;Obscure
 SLES_528.58;Cocoto Kart Racer
 SLES_528.92;Moto GP 4
-SLES_531..24;UNKNOWN TITLE
 SLES_531.00;Scooby Doo! Unmasked
 SLES_531.24;Project Snowblind
 SLES_531.42;Doomsday Racers
@@ -1124,7 +1123,6 @@ SLUS_213.89;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 1]
 SLUS_214.00;Monster House
 SLUS_214.17;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 2]
 SLUS_214.53;Disneys Meet the Robinsons
-SLUS_214.86;Eagle Eye Golf
 SLUS_215.97;Medal of Honor - Vanguard
 SLUS_216.19;Harry Potter and The Order of the Phoenix
 SLUS_216.60;Disney Princess - Enchanted Journey
