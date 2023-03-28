@@ -1,5 +1,6 @@
 PBPX_952.01;Dead or Alive 2
 PBPX_955.06;Official PlayStation 2 Magazine Demo Disc 2001
+SCAJ_201.44;Saru Gechu 3 [Ape Escape 3]
 SCES_504.90;Final Fantasy X
 SCES_504.92;Final Fantasy X
 SCES_505.95;Disney-Pixar Monsters Inc.
@@ -101,6 +102,7 @@ SCUS_971.45;Disneys Stitch - Experiment 626
 SCUS_971.64;Twisted Metal Black [Demo]
 SCUS_971.81;Official U.S. PlayStation Magazine Demo Disc 055
 SCUS_972.60;War of the Monsters [Demo]
+SCUS_974.36;Gran Turismo 4 [Online Public Beta]
 SLES_500.34;MotoGP
 SLES_500.42;Disneys Dinosaur
 SLES_500.43;Disneys Dinosaur
@@ -785,7 +787,6 @@ SLPM_675.05;007 - Agent Under Fire (Korea)
 SLPM_675.06;Thunder Strike - Operation Phoenix
 SLPM_675.08;Gitaroo Man
 SLPM_675.12;2002 FIFA World Cup (Korea)
-SLPM_675.13;Final Fantasy X International
 SLPM_675.16;Legacy of kain - soul reaver 2
 SLPM_675.18;Onimusha 2
 SLPM_675.20;Disneys Tarzan Untamed
@@ -853,7 +854,6 @@ SLPS_201.44;Seed, The
 SLPS_201.52;Stunt GP
 SLPS_201.60;Disneys Tarzan - Freeride
 SLPS_201.67;La Pucelle
-SLPS_201.70;Wave Rally
 SLPS_201.72;Koushien - Konpeki no Sora
 SLPS_201.73;Magical Sports - Hard Hitter 2
 SLPS_201.78;Samurai
