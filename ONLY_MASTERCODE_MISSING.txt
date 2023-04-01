@@ -914,6 +914,7 @@ SLPS_250.15;Choro Q - High Grade
 SLPS_250.16;Neo Atlas 3
 SLPS_250.22;Cool Boarders - Code Alien
 SLPS_250.28;Shutokou Battle 0
+SLPS_250.29;Rayman Revolution
 SLPS_250.32;Golful Golf
 SLPS_250.35;Monster Farm 3
 SLPS_250.44;Evergrace 2
