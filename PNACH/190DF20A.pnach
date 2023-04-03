@@ -1,4 +1,4 @@
-comment=Alien Hominid Widescreen (NTSC-U)
+comment=Alien Hominid Widescreen SLUS_210.90 (NTSC-U)
 
 patch=1,EE,2017C7D8,extended,08030000 //Jump to Rectangle Scaling Code
 patch=1,EE,200C0000,extended,3C153F40 //Rectangle Scale
