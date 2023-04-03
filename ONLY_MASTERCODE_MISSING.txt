@@ -431,7 +431,6 @@ SLPM_620.97;Keisusaikan, The - Shinjuku 24 Hours
 SLPM_620.98;Busin - Wizardry Alternative
 SLPM_621.02;Crazy Taxi
 SLPM_621.09;Hippa Linda
-SLPM_621.12;Itadaki Street 3
 SLPM_621.14;Crash Bandicoot 4 - Sakuretsu! Majin Power
 SLPM_621.18;Bomberman Kart
 SLPM_621.21;ESPN NBA 2Night 2002
