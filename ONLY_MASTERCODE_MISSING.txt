@@ -97,9 +97,11 @@ SCPS_560.11;U - Underwater Unit
 SCPS_560.12;Disaster Report
 SCPS_560.13;This is Football 2003
 SCPS_560.14;Gungrave
+SCUS_971..12;UNKNOWN TITLE
 SCUS_971.09;NCAA Final Four 2001
 SCUS_971.45;Disneys Stitch - Experiment 626
 SCUS_971.64;Twisted Metal Black [Demo]
+SCUS_971.73;Jet X2O
 SCUS_971.81;Official U.S. PlayStation Magazine Demo Disc 055
 SCUS_972.60;War of the Monsters [Demo]
 SCUS_974.36;Gran Turismo 4 [Online Public Beta]
@@ -107,10 +109,12 @@ SLES_500.34;MotoGP
 SLES_500.42;Disneys Dinosaur
 SLES_500.43;Disneys Dinosaur
 SLES_501.58;Gungriffon Blaze
+SLES_503..86;UNKNOWN TITLE
 SLES_503.00;Time Crisis 2
 SLES_504.09;MotoGP 2
 SLES_504.38;Motor Mayhem
 SLES_506.30;Dragon Rage
+SLES_507.70;Mad Maestro!
 SLES_508.10;Smash Court Tennis - Pro Tournament
 SLES_508.74;F1 2002
 SLES_508.78;Tekken 4
@@ -118,6 +122,7 @@ SLES_509.03;MegaRace 3 - Nanotech Disaster
 SLES_509.95;Fireblade
 SLES_510.64;Gladius
 SLES_510.69;RTX - Red Rock
+SLES_511..13;UNKNOWN TITLE
 SLES_513.81;Everblue 2
 SLES_515.84;F1 Career Challenge
 SLES_517.18;League Series Baseball 2
@@ -1053,9 +1058,9 @@ SLPS_732.08;DragonBall Z 2 [PlayStation 2 The Best]
 SLPS_734.18;Shadow Hearts [PlayStation 2 The Best]
 SLUS_021.312;UNKNOWN TITLE
 SLUS_200.03;Portal Runner
-SLUS_200.35;Baldurs Gate - Dark Alliance
 SLUS_200.39;Top Gear Dare Devil
 SLUS_200.45;Legend of Alon Dar, The
+SLUS_200.48;Legion - Legend of Excalibur
 SLUS_200.50;NBA Hoopz
 SLUS_200.75;Disneys Jungle Book - Rhythm & Groove
 SLUS_201.03;F1 2000 Championship Edition
@@ -1076,6 +1081,7 @@ SLUS_202.71;Shifters
 SLUS_202.85;Moto GP 2
 SLUS_203.42;Top Angler - Real Bass Fishing
 SLUS_203.95;GTC Africa
+SLUS_204..75;UNKNOWN TITLE
 SLUS_204.28;Fishermans Bass Club
 SLUS_204.55;F1 2002
 SLUS_204.78;Disneys PK - Out of the Shadows
@@ -1084,6 +1090,7 @@ SLUS_205.13;NBA Starting Five
 SLUS_205.24;Fighter Maker 2
 SLUS_205.28;Zapper - One Wicked Cricket
 SLUS_205.43;Metal Gear Solid 2
+SLUS_205.53;Fishermans Challenge
 SLUS_205.55;Reel Fishing 3
 SLUS_205.75;Island Xtreme Stunts
 SLUS_205.76;Harry Potter and The Chamber of Secrets
@@ -1102,6 +1109,7 @@ SLUS_208.92;Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 1]
 SLUS_209.31;Trigger Man
 SLUS_209.59;Dukes of Hazzard, The - Return of the General Lee
 SLUS_209.86;Armored Core - Nexus [Evolution Disc]
+SLUS_210..90;UNKNOWN TITLE
 SLUS_210.15;Madagascar
 SLUS_210.32;Marc Eckos Getting Up - Contents Under Pressure
 SLUS_210.79;Armored Core - Nexus [Revolution Disc]
@@ -1111,6 +1119,7 @@ SLUS_211.12;L.A. Rush
 SLUS_211.33;Xenosaga - Episode II - Jenseits von Gut und Bose [Disc 2]
 SLUS_211.80;Onimusha - Dawn of Dreams
 SLUS_211.99;Medal of Honor - European Assault
+SLUS_212..12;UNKNOWN TITLE
 SLUS_212.061;UNKNOWN TITLE
 SLUS_212.85;Ultimate Spider-Man [Limited Edition]
 SLUS_213.14;Ruff Trigger - Vancore Conspiracy
@@ -1120,6 +1129,7 @@ SLUS_213.62;Onimusha - Dawn of Dreams
 SLUS_213.651;UNKNOWN TITLE
 SLUS_213.86;Tales of the Abyss
 SLUS_213.89;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 1]
+SLUS_214..48;UNKNOWN TITLE
 SLUS_214.00;Monster House
 SLUS_214.17;Xenosaga - Episode III - Also Sprach Zarathustra [Disc 2]
 SLUS_214.53;Disneys Meet the Robinsons
@@ -1129,6 +1139,8 @@ SLUS_216.60;Disney Princess - Enchanted Journey
 SLUS_216.66;Mountain Bike Adrenaline
 SLUS_216.97;Iridium Runners
 SLUS_217.34;Falling Stars
+SLUS_217.60;Jeep Thrills
+SLUS_218.05;Hasbro - Family Game Night
 SLUS_218.83;Disney/Pixar Cars - Race-O-Rama
 SLUS_218.96;Secret Saturdays, The - Beasts of the 5th Sun
 SLUS_219.33;Despicable Me - The Game
