@@ -1,0 +1,4 @@
+gametitle=Spartan: Total Warrior SLUS_212.12 (NTSC-U) 
+//ELF CRC=08277A9E
+comment=Widescreen patch
+patch=1,EE,2057C814,extended,3F100000 // 3F400000

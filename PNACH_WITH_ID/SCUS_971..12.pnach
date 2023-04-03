@@ -1,0 +1,5 @@
+gametitle=Extermination SCUS_971.12 
+//ELF CRC=0AE679AF
+comment=Widescreen Hack
+patch=1,EE,001d2978,extended,3c023f19
+patch=1,EE,001d297c,extended,3442999a
