@@ -101,7 +101,6 @@ SCUS_971..12;UNKNOWN TITLE
 SCUS_971.09;NCAA Final Four 2001
 SCUS_971.45;Disneys Stitch - Experiment 626
 SCUS_971.64;Twisted Metal Black [Demo]
-SCUS_971.73;Jet X2O
 SCUS_971.81;Official U.S. PlayStation Magazine Demo Disc 055
 SCUS_972.60;War of the Monsters [Demo]
 SCUS_974.36;Gran Turismo 4 [Online Public Beta]
@@ -114,7 +113,6 @@ SLES_503.00;Time Crisis 2
 SLES_504.09;MotoGP 2
 SLES_504.38;Motor Mayhem
 SLES_506.30;Dragon Rage
-SLES_507.70;Mad Maestro!
 SLES_508.10;Smash Court Tennis - Pro Tournament
 SLES_508.74;F1 2002
 SLES_508.78;Tekken 4
@@ -628,7 +626,6 @@ SLPM_654.77;Crimson Sea 2
 SLPM_654.80;Michigan
 SLPM_654.83;Secret Weapons Over Normandy
 SLPM_654.86;Airforce Delta - Blue Wing Knights
-SLPM_654.95;Monster Hunter
 SLPM_654.99;Bloody Roar 4
 SLPM_655.01;Frogger - The Great Quest
 SLPM_655.06;Cool Girl
@@ -1060,7 +1057,6 @@ SLUS_021.312;UNKNOWN TITLE
 SLUS_200.03;Portal Runner
 SLUS_200.39;Top Gear Dare Devil
 SLUS_200.45;Legend of Alon Dar, The
-SLUS_200.48;Legion - Legend of Excalibur
 SLUS_200.50;NBA Hoopz
 SLUS_200.75;Disneys Jungle Book - Rhythm & Groove
 SLUS_201.03;F1 2000 Championship Edition
@@ -1140,7 +1136,6 @@ SLUS_216.66;Mountain Bike Adrenaline
 SLUS_216.97;Iridium Runners
 SLUS_217.34;Falling Stars
 SLUS_217.60;Jeep Thrills
-SLUS_218.05;Hasbro - Family Game Night
 SLUS_218.83;Disney/Pixar Cars - Race-O-Rama
 SLUS_218.96;Secret Saturdays, The - Beasts of the 5th Sun
 SLUS_219.33;Despicable Me - The Game
